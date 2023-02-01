@@ -13,3 +13,7 @@ This game need no installation. You can play the game on browser.
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+
+## 参加者
+
+A
