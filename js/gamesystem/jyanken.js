@@ -68,4 +68,3 @@ function resultExchanger(result,win,lose,even){
         throw 'Parameter is not a hand!';
     }   
 }
-
