@@ -16,7 +16,6 @@ async function jyanken(my_hand) {
     //勝ち・負け
     showing_result = resultExchanger(result, "勝ち!", "負け!", "あいこ!");
     showResult(showing_result, cp_hand);
-
     showVIR(victories_in_a_row(result));
 
     //ichihachiの場合はaddScoreIchiHachi
