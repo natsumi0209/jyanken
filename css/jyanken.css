@@ -15,7 +15,7 @@ body {
 
 body>div {
     background-color: rgb(231, 231, 231);
-    max-width: 320px;
+    max-width: 319px;
     margin: 1em auto;
     padding: 0 0 1em 0;
     text-align: center;
@@ -55,7 +55,7 @@ h1 {
 }
 
 #cp_result {
-    font-size: 10em;
+    font-size: 20em;
     height: 238px;
 }
 
