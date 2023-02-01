@@ -2,6 +2,7 @@
 // requires js/gamesystem/score.js
 // requires js/gamesystem/victories_in_a_row.js
 // requires js/event/show_status.js
+//
 
 //1. ユーザーが、自分の手を決めるボタンを押した際、の処理
 async function jyanken(my_hand) {
