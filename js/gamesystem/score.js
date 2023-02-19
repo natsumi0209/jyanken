@@ -7,7 +7,6 @@ function resetScore(){
   //cp_score = 0;
 }
 
-//変更
 function addScore(){
   if(victories>0){
     my_score = my_score + WINNING_POINT*victories;
